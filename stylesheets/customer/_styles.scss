@@ -4,6 +4,7 @@
 @include guides(35px, 4, 4);
 @include guides(15px, 2, 2, iphone);
 
+@import "typography";
 @import "fonts";
 @import "fullscreen";
 @import "alf-styles";
